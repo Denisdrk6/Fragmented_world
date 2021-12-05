@@ -47,7 +47,7 @@ container{
 }
 
 html, body {
-    background: linear-gradient(0deg, #9e63d1, #4c3fbd, #39a3d9, #4c3fbd, #9e63d1);
+    background: black;
 }
 
 .description {
